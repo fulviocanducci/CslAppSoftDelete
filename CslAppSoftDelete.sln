@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CslAppSoftDelete", "CslAppSoftDelete\CslAppSoftDelete.csproj", "{76161672-84FE-4D0D-A1CE-B22694BF490E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76161672-84FE-4D0D-A1CE-B22694BF490E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76161672-84FE-4D0D-A1CE-B22694BF490E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76161672-84FE-4D0D-A1CE-B22694BF490E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76161672-84FE-4D0D-A1CE-B22694BF490E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFB6D505-B6F8-4A5E-A15A-87612F419E82}
+	EndGlobalSection
+EndGlobal
